@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi I'm Lukas Lind Kansakar
+
+I am a student at Business Academy Copenhagen, studying IT Architecture
+
 
 <!--
 **bananpalme/bananpalme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

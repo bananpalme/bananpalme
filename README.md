@@ -3,6 +3,8 @@
 I am a student at Business Academy Copenhagen, studying IT Architecture
 
 you can take a look at some of my repositories, but most of them are random projects, either from education or just for fun and dont reflect my professional work 😛
+
+also 3/4 of my pinned repositories are more about ci/cd and virtualmachines rather than the code itself fyi
 <!--
 **bananpalme/bananpalme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
